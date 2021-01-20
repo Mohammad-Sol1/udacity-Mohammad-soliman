@@ -1,0 +1,22 @@
+<div class="fd-card__header" style="background-image: url(&quot;//www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/wJDOyiX5XFbuYtycfik57/de4b8cf3a607567fdfd3515f6b32600a/catalog-image-nd340.jpg&quot;);"><div class="fd-card__header-prefix"></div><div class="fd-card__header-title">Programming</div><div class="fd-card__flag fd-card__flag--new">new</div></div>
+
+
+
+url(//www.udacity.com/assets/iridium/images/svgs/icon-star-large-yellow.svg) repeat-x
+
+
+
+
+.fd-card {
+    margin-top: 0;
+    margin-bottom: 24px;
+    text-align: left;
+    position: relative;
+    background: #fff;
+    box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2);
+    border-radius: .375rem;
+    transition: all .3s ease;
+
+
+
+     color: #525c65;
